@@ -1,6 +1,6 @@
 # Text_classification
-NLP Text Classification Projects
-SMS Spam Collection v.1
+- NLP Text Classification Projects
+- SMS Spam Collection v.1
 -------------------------
 
 1. DESCRIPTION
